@@ -1,0 +1,15 @@
+---
+title: "Welcome to my website!"
+---
+
+#### Hi there, I am Parvin Mohammadiarvejeh!
+
+
+```{r, out.width="50%", echo=FALSE}
+knitr::include_graphics("Parvin.JPG")
+```
+
+
+I am a data scientist who wants to help people have successful cognitive aging.
+
+[Read more about me..](about.html)

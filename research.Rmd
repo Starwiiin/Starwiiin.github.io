@@ -1,0 +1,38 @@
+---
+title: "Publications and Conferences"
+---
+
+### Publications
+
+
+ - Mohammadiarvejeh P, Klinedinst BS, Wang Q, Li T, Larsen B, Pollpeter A, Moody SN, Willette SA, Mochel JP, Allenspach K, Hu G, Willette AA. Bioenergetic and vascular predictors of potential super-ager and cognitive decline trajectories—a UK Biobank Random Forest classification study. GeroScience. 2022 Sep 15:1-5.
+ 
+ - Fili M, Mohammadiarvejeh P, Hu G. A Stacking-Based Classification Method to Predict ICU Admission in Hospitalized COVID-19 Patients. (Submitted to Journal of Artificial Intelligence in Medicine)
+ 
+ - Mohammadiarvejeh P, Middleton TE, McDaniel MD, Hu G. A random forest algorithm to understand the regulating factors for tea leave decomposition in agroecosystems. In2022 17th Annual System of Systems Engineering Conference (SOSE) 2022 Jun 7 (pp.149-154). IEEE.
+ 
+ - Mohammadiarvejeh P, Hu G. Optimization of Drone Delivery for Perishable Healthcare Products in Disasters. IIE Annual Conference. Proceedings; Norcross (2022): 1-6.
+
+
+### Conferences
+
+
+ - Mohammadiarvejeh P, Hu G, Willette AA. Ensemble feature selection model for structural brain MRI predictors of potential Super-Ager and cognitive decline trajectories – A UK Biobank classification study. 2022 INFORMS Annual Meeting
+ 
+ - Mohammadiarvejeh P, Klinedinst BS, Wang Q, Pollpeter A, Larsen BA, Moody S, Li T, Barnett N, Pappas C, Willette SA, Jonathan M, Allenspach K, Hu G, Willette AA. Bioenergetic and vascular predictors of potential super-ager and cognitive decline trajectories– A UK Biobank random forest classification study. Alzheimer’s Association International Conference 2022 Jul 31. ALZ.
+ 
+ - Mohammadiarvejeh P, Middleton TE, McDaniel MD, Hu G. A random forest algorithm to understand the regulating factors for tea leave decomposition in agroecosystems. 2022 17th Annual System of Systems Engineering Conference (SOSE).
+ 
+ - Mohammadiarvejeh P, Hu G. Optimization of Drone Delivery for Perishable Healthcare Products in Disasters. IISE Annual Conference and EXPO 2022.
+
+
+### Teaching
+
+
+ - Applied Ergonomics and Work Design
+ - Integer Programming
+ - Stochastic Systems
+ 
+ 
+ 
+ 

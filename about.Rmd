@@ -1,0 +1,22 @@
+---
+title: "About Parvin"
+---
+
+### About me
+
+A Ph.D. student in Operation Research, industrial Engineering at Iowa State University working on developing optimization and machine learning models to recognize Super-Agers using the blood and brain biomarkers. An enthusiastic problem solver and avid learner with experience in academic research, industry and team working. Interested in data analytic, machine learning, statistics, and optimization.
+
+
+### Current Research
+
+Super-Agers are adults aged more than 80 and who show cognitive abilities as good as middle-aged adults (45 years old). I am developing classification models to discriminate Super-Agers and natural Cognitive Decliners using blood biomarkers and structural brain MRI which belong to their mid-life. Moreover, I am exploring causal associations between blood biomarkers and changes in brain structure. The big goal is to wipe out Alzheimer's Disease and help healthy people to preserve cognitive abilities as they age!
+
+
+### Hometown -- Education
+
+I am from Esfahan, Iran and I am living in Ames, Iowa right now.
+
+I received my MS. in industrial engineering from University of Tehran at Iran in 2019.
+I started my Ph.D. in operation research at Iowa state university in 2020.
+
+

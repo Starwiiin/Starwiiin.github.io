@@ -1,0 +1,34 @@
+name: "Parvin Mohammadiarvejeh"
+navbar:
+  title: "Parvin Mohammadiarvejeh"
+  type: inverse
+  left:
+  - text: "Home"
+    icon: fa-home
+    href: index.html
+  - text: "About"
+    icon: fa-user
+    href: about.html
+  - text: "Papers / Talks"
+    icon: fa-readme
+    href: research.html
+  - text: "Awards"
+    icon: fa-award
+    href: award.html
+  right:
+  - icon: fa-envelope-o fa
+    href: mailto:parvin.mohammadi1994@gmail.com
+  - icon: fa-github fa
+    href: https://github.com/Starwiiin
+  - icon: fa-linkedin fa
+    href: https://www.linkedin.com/in/parvin-mohammadiarvejeh-1a67281b4/
+  - icon: fa-google fa
+    href: https://scholar.google.com/citations?user=_n14Ss4AAAAJ&hl=en
+
+  output:
+   html_document:
+    theme: readable
+    highlight: textmate
+
+
+
