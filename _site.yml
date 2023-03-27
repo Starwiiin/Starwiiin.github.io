@@ -1,5 +1,5 @@
 name: "Parvin Mohammadiarvejeh"
-output_dir: "doc"
+output_dir: "docs"
 navbar:
   title: "Parvin Mohammadiarvejeh"
   type: inverse
